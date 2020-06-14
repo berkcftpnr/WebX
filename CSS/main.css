@@ -1,4 +1,33 @@
-fdsafa
-fddsszcvcferqewq
-fdskagdslafl
-heyhooo
+h1 {
+  text-align: center;
+  background: gray;
+  visibility: visible;
+}
+
+h1:hover {
+  text-align: center;
+  background: gray;
+  visibility: hidden;
+}
+
+.basics1 {
+  padding-left: 5px;
+  padding-right: 5px;
+  background-color: rgba(22,108,179,1);
+  
+}
+
+.basics2 {
+  background-color: red;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.brand-style {
+  color: rgba(39,250,189,1);
+}
+
+.brand-style:hover {
+  color:  rgba(39,250,189,.7);
+  text-decoration: none;
+}
